@@ -1,4 +1,4 @@
-## $Lookup
+## $Lookup [https://www.codepeaks.in/2023/02/performing-mongodb-left-outer-join.html]
 
 - The $lookup is typically used when you have a collection that contains a field with a reference to another collection. By using $lookup, you can retrieve the referenced documents and merge them with the original document in a single query.
 
